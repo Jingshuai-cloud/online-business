@@ -76,8 +76,8 @@ const Footer = () => {
       </FooterLinksContainer>
       <SocialMedia>
         <SocialMediaWrap>
-          <SocialLogo to="/">ULTRA</SocialLogo>
-          <WebsiteRights>ULTRA C 2020</WebsiteRights>
+          <SocialLogo to="/">JING GALLERY</SocialLogo>
+          <WebsiteRights>JING GALLERY 2020</WebsiteRights>
           <SocialIcons>
             <SocialIconLink href="/" target="_blank" aria-label="Facebook">
               <FaFacebook />
